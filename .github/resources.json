@@ -102,6 +102,7 @@
       "with_tailscale",
       "badlinkname",
       "tfogo_checklinkname0",
+      "with_wireguard",
       "with_ebpf"
     ]
   },
